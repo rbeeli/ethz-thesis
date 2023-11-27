@@ -1,9 +1,0 @@
-PWD /mnt/data/repos/ethz-thesis/preamble
-INPUT /etc/texmf/web2c/texmf.cnf
-INPUT /usr/share/texmf/web2c/texmf.cnf
-INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
-INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT general.tex
-OUTPUT general.log
-INPUT /usr/share/texlive/texmf-dist/tex/latex/classicthesis/classicthesis.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/classicthesis/classicthesis.sty
